@@ -100,7 +100,7 @@ a {
 
 .images {
     display: flex;
-    gap: 30px;
+    gap: 70px;
     justify-content: center;
     text-align: center;
 }
@@ -114,4 +114,33 @@ a {
 
 .card-image div {
     width: 135px;
+}
+
+.third-container {
+    background-color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+
+.quote-container p {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-container {
+    width: 750px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-author {
+    align-self: flex-end;
+    font-weight: 800;
+    margin-right: 15px;
 }
