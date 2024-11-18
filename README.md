@@ -1,6 +1,8 @@
 # landing-page
- Proyecto: Landing-page para TOP
+Project: Landing Page for TOP
 
-Siguiendo los lineamientos del curso Foundations de TOP. 
+Following the guidelines of the TOP Foundations course.
 
-La intención del proyecto es crear una página web desde cero, imitando el diseño que se encuentra en la carpeta "diseño"
+The purpose of the project is to create a website from scratch, replicating the design found in the "design" folder.
+
+Live preview: https://federicotempo.github.io/landing-page/
